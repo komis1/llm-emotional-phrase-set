@@ -17,6 +17,8 @@ Complete source code (HTML/JS/PHP/SQL) to reproduce our experiment environment o
 All the data collected in our experiment (n=13 participants), in CSV format.
 
 ## Reference
-If you do end up using our data or source code in your own work, please cite our paper: Andreas Komninos, Ioulia Simou, Angelos Fotopoulos, Eleftheria Lito Michanetzi, and Michalis Xenos. 2024. Towards LLM-Generated Affective Phrase Sets for Text Entry Evaluation. In International Conference on Mobile and Ubiquitous Multimedia (MUM ’24), December 1–4, 2024, Stockholm, Sweden. ACM, New York, NY, USA, 3 pages. https://doi.org/10.1145/3701571.3703384
+If you do end up using our data or source code in your own work, please cite our paper: 
+
+Andreas Komninos, Ioulia Simou, Angelos Fotopoulos, Eleftheria Lito Michanetzi, and Michalis Xenos. 2024. Towards LLM-Generated Affective Phrase Sets for Text Entry Evaluation. In International Conference on Mobile and Ubiquitous Multimedia (MUM ’24), December 1–4, 2024, Stockholm, Sweden. ACM, New York, NY, USA, 3 pages. https://doi.org/10.1145/3701571.3703384
 
 
